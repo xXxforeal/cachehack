@@ -1,0 +1,1 @@
+CacheHack is an open source tool used to unpack the RuneScape cache into readable, editable, files.
